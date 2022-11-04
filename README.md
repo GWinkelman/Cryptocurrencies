@@ -1,1 +1,4 @@
 # Cryptocurrencies
+
+## Purpose/Overview 
+This analysis was performed in order to help an investment bank (and very important client) determine what cryptocurrencies they should begin offering to their clients. The investment bank does not have much knowledge on cryptocurrencies, so this analysis shows what currencies are currently being traded and also groups them into a classification system. A clustering algorithm was used with an unsupervised learning model in order to grasp the full picture of the cryptocurrency data for the next board meeting. The analysis was able to group clusters of coins fairly successfully with 4 different classes/groupings. This should help get a footing in the cryptocurrency market and better understand how the coins are traded and also how they can be grouped together for portfolio-purposes. 
